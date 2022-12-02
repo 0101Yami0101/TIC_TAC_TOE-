@@ -141,7 +141,7 @@ def main_game():
 
     
 
-main_game()
+# main_game()
 
     
 
